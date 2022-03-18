@@ -1,0 +1,9 @@
+Square 0:false,false,false,false,false,false,false,false,false,false
+Square 1:false,false,false,false,false,false,false,false,false,false
+Square 2:false,false,false,false,false,false,false,false,false,false
+Square 3:false,false,false,false,false,false,false,false,false,false
+Square 4:false,false,false,false,false,false,false,false,false,false
+Square 5:false,false,false,false,false,false,false,false,false,false
+Square 6:false,false,false,false,false,false,false,false,false,false
+Square 7:false,false,false,false,false,false,false,false,false,false
+Square 8:false,false,false,false,false,false,false,false,false,false
